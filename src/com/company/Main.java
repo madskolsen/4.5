@@ -39,5 +39,6 @@ Hertil vil programmet være nået 2. gang zoop træder i kræft.
 Complete output:
 just for
 any not more
-It's breakfast !
+It's breakfast
+!
 */
